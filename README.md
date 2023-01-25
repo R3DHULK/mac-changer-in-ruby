@@ -1,4 +1,4 @@
-<h1><b>Mac Changer In Python</b></h1>
+<h1><b>Mac Changer In Ruby</b></h1>
 <h2><i>MAC Address Changer is an easy to use application that allows you to change (spoof) the Media Access Control (MAC) Address of your network adapters.</h1></i>
 
 #
